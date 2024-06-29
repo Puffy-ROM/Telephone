@@ -250,8 +250,6 @@ burp0_headers = {"Sec-Ch-Ua": "\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", 
 #         address1 = r.find("null,null,null,",n[0]) + 16
 #         address2 = r.find("\"",address1)
 
-#         address = r[address1:address2]
-#         print(address)
 
 
 #         rating = extract_ratings(r)
