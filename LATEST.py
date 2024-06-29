@@ -253,10 +253,6 @@ burp0_headers = {"Sec-Ch-Ua": "\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", 
 #         rating = extract_ratings(r)
 #         print(rating)
 
-#         reviews = extract_reviews(r)
-#         print(reviews)
-
-
 #         w=r[schedule1:schedule2+3]
 #         w=w.replace('null','')
 #         w=w.replace('\u202f','')
