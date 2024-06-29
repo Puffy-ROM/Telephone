@@ -247,8 +247,6 @@ burp0_headers = {"Sec-Ch-Ua": "\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", 
 #         n = find_hex_pairs_indices(r)
 #         name = r[n[0]+40:r.find("\"",n[0]+40)]
 #         print(name)
-#         address1 = r.find("null,null,null,",n[0]) + 16
-#         address2 = r.find("\"",address1)
 
 
 
