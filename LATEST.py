@@ -246,9 +246,6 @@ burp0_headers = {"Sec-Ch-Ua": "\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", 
 #         r=b[0:b.find("https://lh5.googleusercontent.com")]
 #         n = find_hex_pairs_indices(r)
 #         name = r[n[0]+40:r.find("\"",n[0]+40)]
-#         print(name)
-
-
 
 #         rating = extract_ratings(r)
 #         print(rating)
