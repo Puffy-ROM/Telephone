@@ -256,9 +256,6 @@ burp0_headers = {"Sec-Ch-Ua": "\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", 
 #         reviews = extract_reviews(r)
 #         print(reviews)
 
-    
-#         schedule1 = r.find("[[\""+day+"\"")
-#         schedule2 = r.find("M\"]",schedule1+15)
 
 #         w=r[schedule1:schedule2+3]
 #         w=w.replace('null','')
